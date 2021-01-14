@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1610643813,
+      "filename": "lineage-17.1-20210114-UNOFFICIAL-signed-amami.zip",
+      "id": "3ce56d909e0c3d97456ff14f79b709d1",
+      "romtype": "UNOFFICIAL-signed",
+      "size": 497470128,
+      "url": "https://sourceforge.net/projects/lin17/files/amami/LineageOS_17_signed/lineage-17.1-20210114-UNOFFICIAL-signed-amami.zip",
+      "version": "17.1"
+    }
+  ]
+}
