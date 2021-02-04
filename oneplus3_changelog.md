@@ -1,3 +1,13 @@
+2021-02-04
+
+- Security string 2021-02-05
+- Kernel upstreamed to tag ASB-2021-02-05_3.18
+- Bromite System webview updated to 88.0.4324.141
+- Bromite Browser updated to 88.0.4324.141
+- F-Droid 1.10-alpha-234
+- microG 0.2.17.204714-5
+
+
 2021-01-15 - Initial build
 
 - Pre-installed microG (0.2.16.204713-10) and F-Droid like the LineageOS for microG project (own fork)
