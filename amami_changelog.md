@@ -1,7 +1,24 @@
+07.02.2021
+
+- ASB Security string 2021-02-05
+- misc. kernel patches
+- microG build only:
+  o Bromite System webview updated to 88.0.4324.141
+  o Bromite Browser updated to 88.0.4324.141
+  o F-Droid 1.10-alpha-234
+  o microG 0.2.17.204714-5
+
+
 14.01.2021
 
-- January 2021 ASB for both build variants
-- Upstreamed kernel
+- ASB Security string 2021-01-01
+- standard build only:
+  o Kernel slightly upstreamed
+  o System Webview: Fix of persistent histogram bug (eating space in some cases)
+- microG build only:
+  o Bromite Webview on 87.0.4280.131
+  o Updated microG from upstream to 0.2.16.204713-10 (picked until 2f29b93)
+  o Updated F-Droid to 1.10-alpha1-212
 
 
 29.12.2020
