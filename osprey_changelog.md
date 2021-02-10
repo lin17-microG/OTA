@@ -1,3 +1,12 @@
+2021-02-15
+
+- Security string 2021-02-05
+- Bromite System webview updated to 88.0.4324.141
+- Bromite Browser updated to 88.0.4324.141
+- F-Droid 1.10-alpha-234
+- microG 0.2.17.204714-5
+
+
 2021-01-15 - Initial build
 
 - Build is signed
