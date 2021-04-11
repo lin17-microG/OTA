@@ -1,3 +1,14 @@
+11.04.2021
+
+- Security string 2021-04-05
+- standard build only:
+  o System Webview updated to 89.0.4389.105
+- microG build only:
+  o Bromite System Webview and Browser updated to 90.0.4430.59
+  o F-Droid updated to 1.12
+  o Update: AuroraStore 4.0.4 with AuroraServices 1.1.0
+
+
 10.03.2021
 
 - Security string 2021-03-05
