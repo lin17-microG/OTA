@@ -1,3 +1,11 @@
+2021-04-13
+
+- ASB Security string 2021-04-01
+- Bromite System Webview and Browser updated to 90.0.4430.59
+- F-Droid updated to 1.12
+- Update: AuroraStore 4.0.4 with AuroraServices 1.1.0
+
+
 2021-03-08
 
 - Security string 2021-03-05
