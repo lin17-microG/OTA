@@ -1,3 +1,12 @@
+2021-05-09
+
+- ASB Security string 2021-05-01
+- Kernel upstreamed to tag ASB-2021-05-05_3.18
+- Bromite System Webview and Browser updated to 90.0.4430.204
+- microG upstreamed (no version change)
+- Update: AuroraServices 1.1.1
+
+
 2021-04-10
 
 - ASB Security string 2021-04-01
