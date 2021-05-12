@@ -1,3 +1,14 @@
+12.05.2021
+
+- Security string 2021-05-05
+- standard build only:
+  o System Webview updated to 90.0.4430.82
+- microG build only:
+  o Bromite System Webview and Browser updated to 90.0.4430.204
+  o microG upstreamed (no version upgrade)
+  o Update: AuroraServices 1.1.1
+
+
 11.04.2021
 
 - Security string 2021-04-05
