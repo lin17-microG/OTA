@@ -1,3 +1,12 @@
+2021-06-13
+
+- ASB Security string 2021-06-05
+- Kernel upstreamed to tag ASB-2021-06-05_3.18
+- Kernel WLAN driver (qcacld-2.0) patched to include mitigations against "Frag" vuln.
+- Bromite System Webview and Browser updated to 91.0.4472.102
+- microG 0.2.19211515-9
+
+
 2021-05-09
 
 - ASB Security string 2021-05-01
