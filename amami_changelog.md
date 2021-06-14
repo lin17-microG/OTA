@@ -1,3 +1,12 @@
+14.06.2021
+
+- Security string 2021-06-05
+- A few kernel patches
+- microG build only:
+  o Bromite System Webview and Browser updated to 91.0.4472.102
+  o Upstreamed microG (0.2.19211515-9)
+
+
 12.05.2021
 
 - Security string 2021-05-05
