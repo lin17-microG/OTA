@@ -1,3 +1,15 @@
+10.07.2021
+
+- Security String 2021-07-05
+- Kernel: Many sec. patches applied (taken from Divest-OS, thanks to @SkewedZeppelin)
+- Standard build only:
+  o System Webview updated to 91.0.4472.101
+- microG build only:
+  o Bromite System Webview and Browser updated to 91.0.4472.146
+  o microG 0.2.21.212158-2
+  o AuroraStore 4.0.7
+
+
 14.06.2021
 
 - Security string 2021-06-05
