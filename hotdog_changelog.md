@@ -1,3 +1,12 @@
+2021-07-10
+
+- ASB Security string 2021-07-05
+- Bromite System Webview and Browser updated to 91.0.4472.146
+- microG 0.2.21.212158-2
+- Kernel: Many sec. patches applied (taken from Divest-OS)
+- AuroraStore 4.0.7
+
+
 2021-06-13
 
 - ASB Security string 2021-06-05
