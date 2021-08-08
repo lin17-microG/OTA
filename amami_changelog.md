@@ -1,3 +1,14 @@
+08.08.2021
+
+- Security String 2021-08-05
+- Standard build only:
+  o System Webview updated to 91.0.4472.164
+- microG build only:
+  o Bromite System Webview and Browser updated to 92.0.4515.134
+  o F-Droid updated to 1.13
+  o Fix in WiFi randomization
+
+
 10.07.2021
 
 - Security String 2021-07-05
