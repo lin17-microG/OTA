@@ -1,3 +1,12 @@
+2021-08-08
+
+- ASB Security string 2021-08-05
+- Kernel upstreamed to tag ASB-2021-08-05_3.18
+- Bromite System Webview and Browser updated to 92.0.4515.134
+- F-Droid updated to 1.13
+- Fix in WiFi randomization
+
+
 2021-07-10
 
 - ASB Security string 2021-07-05
