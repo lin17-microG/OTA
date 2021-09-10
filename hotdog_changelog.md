@@ -1,9 +1,16 @@
+2021-09-10
+
+- ASB Security string 2021-09-05
+- microG 0.2.22.212658-2
+
+
 2021-08-07
 
 - ASB Security string 2021-08-05
 - Bromite System Webview and Browser updated to 92.0.4515.134
 - F-Droid updated to 1.13
 - Fix in WiFi randomization
+
 
 2021-07-10
 
