@@ -1,3 +1,10 @@
+12.09.2021
+
+- Security String 2021-09-05
+- Kernel: Further sec. patches applied (Divest-OS)
+- microG build only: microG 0.2.22.212658-2
+
+
 08.08.2021
 
 - Security String 2021-08-05
