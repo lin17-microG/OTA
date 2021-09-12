@@ -1,3 +1,10 @@
+2021-09-12
+
+- ASB Security string 2021-09-05
+- Kernel upstreamed to tag ASB-2021-09-05_3.18
+- microG microG 0.2.22.212658-2
+
+
 2021-08-08
 
 - ASB Security string 2021-08-05
