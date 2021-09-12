@@ -1,3 +1,9 @@
+2021-09-12
+
+- ASB Security string 2021-09-05
+- microG 0.2.22.212658-2
+
+
 2021-08-07
 
 - ASB Security string 2021-08-05
