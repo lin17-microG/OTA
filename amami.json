@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1631446441,
-      "filename": "lineage-17.1-20210912-UNOFFICIAL-microG-signed-amami.zip",
-      "id": "a9c35b840644926f40d110fa446224e4",
+      "datetime": 1633968048,
+      "filename": "lineage-17.1-20211011-UNOFFICIAL-microG-signed-amami.zip",
+      "id": "e90a99335de22b4b96bc19b3740d6ac8",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 600962218,
-      "url": "https://sourceforge.net/projects/lin17/files/amami/LineageOS_17_signed/lineage-17.1-20210912-UNOFFICIAL-microG-signed-amami.zip/download",
+      "size": 605393837,
+      "url": "https://sourceforge.net/projects/lin17/files/amami/LineageOS_17_signed/lineage-17.1-20210111-UNOFFICIAL-microG-signed-amami.zip/download",
       "version": "17.1"
     }
   ]
