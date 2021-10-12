@@ -1,3 +1,9 @@
+2021-10-12 - FINAL build
+
+- ASB Security String 2021-10-01
+- Bromite System Webview and Browser updated to 93.0.4577.83
+
+
 2021-09-10
 
 - ASB Security string 2021-09-05
