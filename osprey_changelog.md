@@ -1,3 +1,10 @@
+2021-12-18 - FINAL Build
+
+- ASB Security String 2021-12-01
+- Bromite System Webview and Browser updated to 96.0.4664.54
+- microG 0.22.214516-21
+
+
 2021-11-13
 
 - ASB Security string 2021-11-05
